@@ -1,1 +1,1 @@
-# Py-music-player
+# Python-music-player
